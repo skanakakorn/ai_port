@@ -1,0 +1,31 @@
+ticker,name,theme,mcap_bucket,expected_return,volatility,momentum_6m
+NVDA,NVIDIA,AI Compute,Large,0.144,0.532,0.289
+AMD,Advanced Micro Devices,AI Compute,Large,0.2,0.238,-0.056
+TSM,TSMC,AI Foundry,Large,0.065,0.5,0.211
+ASML,ASML,AI Equipment,Large,0.227,0.188,0.432
+AVGO,Broadcom,AI Networking,Large,0.258,0.259,-0.041
+MU,Micron,Memory,Large,0.096,0.293,0.165
+MRVL,Marvell,AI Networking,Large,0.158,0.288,0.217
+SMCI,Super Micro Computer,AI Servers,Mid,0.085,0.288,0.07
+MSFT,Microsoft,AI Platform,Mega,0.164,0.471,-0.03
+GOOGL,Alphabet,AI Platform,Mega,0.179,0.399,-0.122
+AMZN,Amazon,AI Platform,Mega,0.202,0.243,-0.111
+META,Meta Platforms,AI Platform,Mega,0.287,0.537,0.335
+ORCL,Oracle,Data Platform,Large,0.126,0.216,0.261
+SAP,SAP,Enterprise AI,Large,0.16,0.225,0.147
+SNOW,Snowflake,Data Platform,Mid,0.059,0.516,0.005
+NOW,ServiceNow,Enterprise AI,Large,0.216,0.295,0.162
+ADBE,Adobe,GenAI Apps,Large,0.187,0.248,0.432
+CRM,Salesforce,Enterprise AI,Large,0.244,0.528,0.387
+DDOG,Datadog,MLOps/Observability,Mid,0.199,0.521,-0.097
+PLTR,Palantir,AI Analytics,Mid,0.099,0.197,0.045
+MDB,MongoDB,Data Platform,Mid,0.147,0.28,0.347
+NET,Cloudflare,AI Infra/Edge,Mid,0.139,0.284,0.176
+HCP,HashiCorp,DevOps,Mid,0.085,0.477,-0.105
+ZS,Zscaler,Security,Mid,0.297,0.466,-0.031
+BIDU,Baidu,AI Platform (CN),Large,0.051,0.482,0.274
+BABA,Alibaba,AI Platform (CN),Large,0.232,0.465,-0.106
+TCEHY,Tencent,AI Platform (CN),Large,0.14,0.223,0.368
+SE,Sea,AI-Enabled Consumer,Mid,0.206,0.302,-0.112
+SHOP,Shopify,AI-Enabled Commerce,Mid,0.128,0.3,0.288
+PATH,UiPath,Automation,Mid,0.209,0.508,0.133
